@@ -1,0 +1,74 @@
+JIRA Notes
+
+----JIRA software, cloud version
+
+Backlog stores bugs and issue types inside of a project. 
+
+All projects have a name and a key, we can set the type to an AGILE workflow
+such as Scrum.
+
+Scrum issue types, story, bug, epic,task, subtask
+
+We customize the issue types on the screens menu, if we don't need them.
+
+Workflows - they allow you to see how a status affects another status.
+
+Todo -> In progress -> Done
+
+We can assign permissions to various team members so more people can manage the
+project.
+
+(This seems a lot like a more in depth version of Trello)
+
+Managing Work Items
+
+Epics are large stories witha  distinct start and end, multiple sprints
+
+Stories bugs and tasks are all  the same level
+
+Stories focus on users, user stories
+
+as a [user] I would like [something] so that I can [benefit]
+
+Bugs are a defect or problem that should be prioritized over new stuff
+
+Subttasks are multiple tasks within a story or a bug.
+
+You drag backlog items into an epic. 
+
+E - edit, A - Assign (shortcuts)
+
+Attributes - assignee, attachment, comment, components, description, epic link,
+fix version/s, issue type, labels, linked issues, priority, sprints
+
+We can create a sprint to be a container for issues to be worked on
+
+When running a sprint, you're gonna have a scrum board
+
+sprints appear on Active Sprints after you click Start Sprint
+
+Definition of ready = fully defined criteria
+
+Ideally you want 2 sprints of ready work
+
+A burn down chart shows story points vs time, we want story points to be at 0
+by the end of the sprint.
+
+The sprint report shows us a summary of the sprint, what work was added and what
+work was removed, and what was completed/not completed.
+
+A velocity chart shows how much we completed vs the commitment we had in place.
+
+Release burndown shows a work burndown and the scope of the release. 
+
+A version report shows the velocity of the team and optimistic, pessimistic, and
+projected completed dates based on how fast the team works day to day. 
+
+JQL is Jira Query Language, very similar to SQL
+uses fields, values, operators and keywords
+
+Dashboards are all about broadcasting what's going on
+
+gadgets help you put some flavor on your dashboard, some visual spice to add to
+a dashboard so people viewing at a glance can get a better idea of the report
+
